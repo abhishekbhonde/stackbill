@@ -2,7 +2,7 @@
 
 **What will your stack cost when you grow?** Pick your services (Vercel, Supabase, Clerk, Claude, Resend, PostHog…), slide to your user count, and see the monthly bill at 1K, 10K, 100K and 1M users.
 
-Live: https://stackbill-pi.vercel.app
+Live: https://stackbill.abhishekk.xyz
 
 ## Features
 
